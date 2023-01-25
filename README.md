@@ -28,4 +28,4 @@ Inno Setup
 
 brenno369@outlook.com
 
-[LinkedIn](https://www.linkedin.com/in/brenno-oliveira-b51115231/)
+[LinkedIn](https://www.linkedin.com/in/brenno-oliveira/)
